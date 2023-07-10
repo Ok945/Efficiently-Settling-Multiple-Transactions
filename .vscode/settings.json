@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "removeextraedgecyclic.h": "c",
+        "issimplified.h": "c",
+        "removeextraedge.h": "c",
+        "removeedge.h": "c",
+        "addedge.h": "c",
+        "iscyclic.h": "c",
+        "initlizegraph.h": "c",
+        "longestpath.h": "c",
+        "executefunction.h": "c",
+        "firstprogram.h": "c",
+        "printgraph.h": "c",
+        "adddebts.h": "c"
+    }
+}
